@@ -18,7 +18,7 @@ PHP, JavaScript, Java, Dart, Vue
 Laravel, Vue.js, Flutter
 
 **Developer Tools:**  
-Git, Docker, VS Code
+Git, Docker, VS Code, Postman, Figma, Slack, Linux, JIRA, GitHub Actions
 
 ## 📫 Connect With Me
 
