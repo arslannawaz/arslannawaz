@@ -12,21 +12,13 @@ I'm passionate about software development and technology, with experience in bui
 ## 🛠️ Languages & Tools
 
 **Languages:**  
-PHP, JavaScript, Java, Dart
+PHP, JavaScript, Java, Dart, Vue
 
 **Frameworks:**  
 Laravel, Vue.js, Flutter
 
 **Developer Tools:**  
 Git, Docker, VS Code
-
-## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arslannawaz&layout=compact&theme=radical)
-
-## 📈 GitHub Stats
-
-![Arslan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arslannawaz&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ## 📫 Connect With Me
 
