@@ -26,6 +26,7 @@ Git, Docker, VS Code, Postman, Figma, Slack, Linux, JIRA, GitHub Actions
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/am.arslanawaz)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/em.arsii)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/arslnwaz)
+[![Upwork](https://img.shields.io/badge/Upwork-%2337A000.svg?logo=upwork&logoColor=white)](https://upwork.com/freelancers/arslanawaz)
 
 ---
 
