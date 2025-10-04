@@ -12,10 +12,10 @@ I'm passionate about software development and technology, with experience in bui
 ## 🛠️ Languages & Tools
 
 **Languages:**  
-PHP, JavaScript, Java, Dart, Vue
+PHP, JavaScript, Java, Dart, Vue, React
 
 **Frameworks:**  
-Laravel, Vue.js, Flutter
+Laravel, Vue.js, Flutter, React
 
 **Developer Tools:**  
 Git, Docker, VS Code, Postman, Figma, Slack, Linux, JIRA, GitHub Actions
